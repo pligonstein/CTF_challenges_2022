@@ -1,3 +1,3 @@
 # Veterans in Security CTF
 
-These are write-ups for CTF challenges I've solved.
+These are write-ups for the CTF challenges I've solved.
