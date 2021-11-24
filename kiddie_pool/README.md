@@ -9,4 +9,4 @@ In the end, after playing for a while with the tool wee manage to get the flag.
 ```
 flag{whirlpool_in_a_cinch}
 ```
-This wasn't a hard challenge at all, as it was fun:D.
+This wasn't a hard challenge at all as it was fun:D.
