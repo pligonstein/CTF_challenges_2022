@@ -1,5 +1,5 @@
 # CTF challenges
 
-These are write-ups for the CTF challenges I've solved.
+## These are write-ups for the CTF challenges I've solved.
 
-Author: Me
+###### Author: Me
