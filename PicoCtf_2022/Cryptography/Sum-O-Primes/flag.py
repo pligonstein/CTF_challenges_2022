@@ -9,5 +9,4 @@ p = (x + isqrt(x*x-4*n))//2
 q = x - p
 phi = (p-1)*(q-1)
 d = inverse(e,phi)
-m = pow(c,d,n)
-print(hex(m))
+print(long_to_bytes(pow(c,d,n)))
